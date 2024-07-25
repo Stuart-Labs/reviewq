@@ -3,3 +3,42 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: ReviewQ
 description: Bookmark this to keep an eye on my project updates!
+
+
+title: My ReviewQ
+description: My very nice blog
+author: "Stuart Wooodward"
+
+theme: minima
+
+base_url: reviewq/
+repository: stuart-labs/reviewqhttp
+
+# Minima social links
+github_username: stuartcw
+linkedin_username: stuartcw
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+
