@@ -1,1 +1,3 @@
-/about.md
+# About ReviewQ
+
+It's just a site you know..
