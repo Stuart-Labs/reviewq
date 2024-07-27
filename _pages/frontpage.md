@@ -14,8 +14,6 @@ Check out the excellent [`minima` theme][minima] documentation for further detai
 
 Do you have questions? feel free to [open an issue][issue] or find out how toreach me from my [contact page][contact].
 
-<img src="./assets/imgs/screenshot.png" width="400px">
-
 For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter).
 
 
