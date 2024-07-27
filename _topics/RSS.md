@@ -1,4 +1,7 @@
-# RSS
+---
+layout: default
+title: "RSS"
+---
 
 This is where I will write about RSS tools and ideas.
 
