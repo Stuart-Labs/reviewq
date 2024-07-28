@@ -21,6 +21,9 @@ I made some python code to filter RSS. i.e. The [Celtic FC](https://www.youtube.
 
 * TODO - It is currently hardcoded.
 * IDEA - Make an Ideas page that pulls in any IDEAs from the site and puts them on the page. It runs a midnight via cron or manually by hitting a URL.
+* TODO - Make the feed generic by reading a setting file which is part of the URL.
+* TODO - Also allow filtering by regex in any tag. i.e. some text in the media:description
+* TODO - Allow a setting to replace text using a regex in any tag to remove the repetitive text that displayed by clients.
 
 ```python
 #!/usr/bin/env python3
