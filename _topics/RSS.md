@@ -73,5 +73,5 @@ if __name__ == "__main__":
     else:
         app.run(debug=True, port=8080)
 ```
-
-IDEA: I want to have an RSS of these topics which is updated every day. If a topic is updated with a certain kind of commit string, I want it those strings to make a new blog post. So, I need to process the commit messages into a summary.
+## RSS Ideas
+* IDEA: I want to have an RSS feed of these topics which is updated every day. If a topic is updated with a certain kind of commit string, I want those strings to make a new blog post. So, I need to process the commit messages into a summary and append that to the daily blog for the day.
