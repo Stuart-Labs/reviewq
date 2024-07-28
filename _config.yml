@@ -24,6 +24,7 @@ header_pages:
   - _pages/about.md
   - _pages/archive.md
   - _pages/topic_index.md
+  - _pages/tags.md
 
 include:
     - _pages
