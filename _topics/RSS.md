@@ -10,6 +10,7 @@ This is where I will write about RSS tools and ideas.
 I made some python code to filter RSS. i.e. https://www.youtube.com/feeds/videos.xml?channel_id=UCBN-bb-hE7jYlcp4exwXRsQ and the keyword "Postecoglou".
 
 * TODO - It is currently hardcoded.
+* IDEA - Make an Ideas page that pulls in any IDEAs from the site and puts them on the page. It runs a midnight via cron or manually by hitting a URL.
 
 ```python
 #!/usr/bin/env python3
