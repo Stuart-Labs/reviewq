@@ -34,18 +34,17 @@ The first goal is to get the review queue operational, allowing posts to flow th
 
 Thank you for visiting ReviewQ. This platform is a testament to my dedication to streamlined content management and sharing, reflecting both my professional and personal endeavors.
 
-## Notes on the template
+## Notes on the template from template author.
 
-This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
-
-Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
-
-Do you have questions? feel free to [open an issue][issue] or find out how toreach me from my [contact page][contact].
-
-For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter).
-
-
-Have a great day!!
+> This is a template and some instructions for running Github Pages with the [`minima` theme][minima]. This repo has what I consider the minimum pieces for a personal blog using [Jekyll][jk] and [Github Pages][gh-site].
+> 
+> Check out the excellent [`minima` theme][minima] documentation for further details and customization and the [official docs][gh] for more details on how Github Pages work.
+> 
+> Do you have questions? feel free to [open an issue][issue] or find out how toreach me from my [contact page][contact].
+> 
+> For more details about how this example site works checkout [the github project](https://github.com/jsanz/gh-pages-minima-starter).
+> 
+> Have a great day!!
 
 [gh-site]: https://pages.github.com/
 [minima]: https://github.com/jekyll/minima/tree/2.5-stable
