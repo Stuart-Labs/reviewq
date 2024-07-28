@@ -5,9 +5,19 @@ title: "RSS"
 
 This is where I will write about RSS tools and ideas.
 
+## YouTube Feeds
+
+You can get a YouTube feed as RSS via this URL
+
+```html
+https://www.youtube.com/feeds/videos.xml?channel_id=XXXXXXX
+```
+Where XXXXXXX is the channel_id of the YouTube channel.
+* TODO - document a link on how to find the Channel ID.
+
 ## Filtering
 
-I made some python code to filter RSS. i.e. https://www.youtube.com/feeds/videos.xml?channel_id=UCBN-bb-hE7jYlcp4exwXRsQ and the keyword "Postecoglou".
+I made some python code to filter RSS. i.e. The [Celtic FC](https://www.youtube.com/@CelticFC) RSS feed at https://www.youtube.com/feeds/videos.xml?channel_id=UCBN-bb-hE7jYlcp4exwXRsQ and the keyword "Postecoglou".
 
 * TODO - It is currently hardcoded.
 * IDEA - Make an Ideas page that pulls in any IDEAs from the site and puts them on the page. It runs a midnight via cron or manually by hitting a URL.
