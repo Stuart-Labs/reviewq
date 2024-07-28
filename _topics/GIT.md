@@ -2,6 +2,7 @@
 layout: default
 title: "Git"
 categories: [git,github]
+tags: [git,github]
 ---
 
 ## Interesting topics
