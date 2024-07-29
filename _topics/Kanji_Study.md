@@ -48,14 +48,13 @@ Thus, it can be inferred that the average Japanese person has a kanji mastery le
 	
 ## Analysis of the top 3000 Kanji used in 5000 Novels
 
-[This Google Sheet][three_thosand_kanji] has 3000 Kanji, in order of most used, wit several examples words that use that Kanji. So by going down from the start and learning the words that you don’t know, my assumption is that you are increasing the number of useful kanji. The reverse is also true, if you go up from the bottom, you are just encountering useless kanji that most 
-
-## Other resource
-
-[This reddit thread][five_thousand_novels] lists a lot of useful resources.
+[This Google Sheet][three_thosand_kanji] has 3000 Kanji, in order of most used, wit several examples words that use that Kanji. So by going down from the start and learning the words that you don’t know, my assumption is that you are increasing the number of useful kanji. The reverse is also true, if you go up from the bottom, you are just encountering useless kanji that many people don't know.
 > 5100 Japanese novels were evaluated with a text analyzer. Here's a list of each of the 3200 kanji that appeared in the top 30,000 words, along with the top 6 words for each kanji.
 
-[three_thosand_kanji]: https://docs.google.com/spreadsheets/d/10mdvW8NUonjD3i0V2Ad3rsPrsBwe-awixg7LapUJJZE/edit?usp=sharing
+## Other resources
 
+[This reddit thread][five_thousand_novels] lists a lot of useful resources.
+
+[three_thosand_kanji]: https://docs.google.com/spreadsheets/d/10mdvW8NUonjD3i0V2Ad3rsPrsBwe-awixg7LapUJJZE/edit?usp=sharing
 
 [five_thousand_novels]: https://www.reddit.com/r/LearnJapanese/comments/g6zxs6/a_few_years_back_5100_japanese_novels_were
