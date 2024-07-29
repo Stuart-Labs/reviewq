@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Kanji Study Methods"
-categories: [kanji,japanese,language learning]
+categories: [kanji,japanese,language learning, JPLT]
 ---
 
 ## Study the most used Kanji
@@ -45,7 +45,6 @@ Given these points, the median person on the street in Japan would likely be at:
 	•	N1 Level: **Around 70-80% of Japanese people are proficient at this level.** This reflects the standard adult literacy level, allowing for comprehensive understanding of daily written material.
 
 Thus, it can be inferred that the average Japanese person has a kanji mastery level that corresponds to the N1 level, making them capable of reading most written texts encountered in everyday life.	
-	
 	
 	
 ## Analysis of the top 3000 Kanji used in 5000 Novels
