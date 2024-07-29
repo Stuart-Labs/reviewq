@@ -10,9 +10,11 @@ categories: Review Queue
 ## Bloom Filters
 
 [A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler][search_using_bloom_filters] 
-TODO: Try this!
+* TODO: Try this!
 > The idea was simple: Let's run all my blog articles through a generator that creates a tiny, self-contained search index using this magical data structure called a ✨Bloom Filter ✨.
 
 
 [search_using_bloom_filters] : https://endler.dev/2019/tinysearch
 
+## ReviewQ Ideas
+* [IDEA] - Find all the todos and and all the ideas and make a generated page to find them.
