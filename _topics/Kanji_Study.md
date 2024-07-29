@@ -7,7 +7,6 @@ categories: [kanji,japanese,language learning]
 ## Study the most used Kanji
 
 
-
 One of my goals is to study just enough. One strategy is focus on the words that people use. 
 
 	1.	N5 Level (approximately 100-200 kanji):
@@ -32,7 +31,7 @@ One of my goals is to study just enough. One strategy is focus on the words that
 	•	Mastery of over 5,000 kanji enables you to read virtually any written material, including highly specialized and technical texts.
 	•	Coverage: 99.9% and above of commonly used written Japanese.
 
-[This Google Sheet][three_thosand_kanji] has 3000 Kanji, in order of most used, with several examples words that use that Kanji. So by going down from the start and learning the words that you don’t know, my assumption is that you are increasing the number of useful kanji. The reverse is also true, if you go up from the bottom, you are just encountering useless kanji that most 
+[This Google Sheet][three_thosand_kanji] has 3000 Kanji, in order of most used, wit several examples words that use that Kanji. So by going down from the start and learning the words that you don’t know, my assumption is that you are increasing the number of useful kanji. The reverse is also true, if you go up from the bottom, you are just encountering useless kanji that most 
 
 ## Other resources
 
