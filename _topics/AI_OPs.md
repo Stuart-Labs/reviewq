@@ -14,6 +14,16 @@ title: "AI OPs"
 
 ## Resources
 
+### Github Projects
+
+* [Opslane][opslane]
+	* Alert Classification: Opslane can classify alerts as actionable or noisy using LLMs. We analyze alert history and Slack conversations to determine if an alert is actionable.
+	* Slack Integration: Opslane operates in a Slack channel where a team receives alerts. We provide insights and additional resources for debugging actionable alerts.
+	* Analytics: Opslane provides weekly reporting data for the quality of alerts in a Slack channel. We analyze the pattern of alerts and provide an option to silence noisy alerts directly from Slack.
+	* Open Source: Opslane is open source and welcomes contributions from the community.
+
+[opslane]: https://github.com/opslane/opslane
+
 
 ### YouTube
 
