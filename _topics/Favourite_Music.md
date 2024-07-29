@@ -10,7 +10,7 @@ Favourite Music and what it means to me.
 
 * [All You need is love][all_you_need_is_love]
 * [Band on Run][band_on_the_run]
-* [Silly Love Songs][[silly_love_songs]
+* [Silly Love Songs][silly_love_songs]
 
 [band_on_the_run]: https://youtu.be/RjlvdcBAKdg?si=zfQ34euTW_GhVN0c
 
