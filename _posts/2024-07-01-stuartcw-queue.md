@@ -13,6 +13,8 @@ categories: Review Queue
 
 * [Love is all you need][all_you_need_is_love]
 
+* How much is it normal to forget. In a year's time I will have forgotten all this but I may be wondering if I am forgetful.
+
 
 # July 2024 - Review Queue
 
