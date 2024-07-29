@@ -14,7 +14,8 @@ categories: Review Queue
 > The idea was simple: Let's run all my blog articles through a generator that creates a tiny, self-contained search index using this magical data structure called a ✨Bloom Filter ✨.
 
 
-[search_using_bloom_filters] : https://endler.dev/2019/tinysearch
+[search_using_bloom_filters]: https://endler.dev/2019/tinysearch
 
 ## ReviewQ Ideas
 * [IDEA] - Find all the todos and and all the ideas and make a generated page to find them.
+* [IDEA] - Get all the changes that were made during the month and get ChatGTP API to summarise them into a monthly summary page. Must only be text changes not settings changes.
