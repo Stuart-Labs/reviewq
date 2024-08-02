@@ -24,6 +24,11 @@ categories: Review Queue
 * TODO: Try this!
 > The idea was simple: Let's run all my blog articles through a generator that creates a tiny, self-contained search index using this magical data structure called a ✨Bloom Filter ✨.
 
+## Simon Kuper writes books on economics 
+
+“I write books to teach myself about a topic.”
+
+
 ## Semantic Grep
 
 [Semantic Grep][semantic_grep]
