@@ -8,19 +8,19 @@ A SLAM (Simultaneous Localization and Mapping) map builder is a component in rob
 
 How SLAM Works:
 
-	1.	Sensor Data Acquisition: The robot or system gathers data from various sensors, such as cameras, LiDAR (Light Detection and Ranging), radar, or ultrasonic sensors.
-	2.	Feature Extraction: The system processes the sensor data to identify features or landmarks in the environment. These could be edges, corners, or other distinctive elements.
-	3.	Pose Estimation: Using the features identified, the system estimates its position and orientation (pose) relative to the environment.
-	4.	Map Updating: As the system moves and gathers more data, it updates the map of the environment, refining the positions of previously identified features and adding new ones.
-	5.	Localization: The system continuously compares the current sensor data with the map it has built so far to localize itself within the environment, adjusting its pose estimation as necessary.
-	6.	Loop Closure: If the system revisits a previously mapped area, it recognizes the loop and adjusts the map and its position to account for any drift or errors that may have accumulated.
+1.	Sensor Data Acquisition: The robot or system gathers data from various sensors, such as cameras, LiDAR (Light Detection and Ranging), radar, or ultrasonic sensors.
+2.	Feature Extraction: The system processes the sensor data to identify features or landmarks in the environment. These could be edges, corners, or other distinctive elements.
+3.	Pose Estimation: Using the features identified, the system estimates its position and orientation (pose) relative to the environment.
+4.	Map Updating: As the system moves and gathers more data, it updates the map of the environment, refining the positions of previously identified features and adding new ones.
+5.	Localization: The system continuously compares the current sensor data with the map it has built so far to localize itself within the environment, adjusting its pose estimation as necessary.
+6.	Loop Closure: If the system revisits a previously mapped area, it recognizes the loop and adjusts the map and its position to account for any drift or errors that may have accumulated.
 
 Applications:
 
-	•	Robotics: SLAM enables robots to navigate autonomously in environments without pre-existing maps.
-	•	Drones: For autonomous flight and obstacle avoidance in GPS-denied environments.
-	•	Augmented Reality (AR): SLAM is used to overlay digital content in the real world by understanding the spatial layout.
-	•	Autonomous Vehicles: Essential for self-driving cars to navigate through urban environments.
+* Robotics: SLAM enables robots to navigate autonomously in environments without pre-existing maps.
+* Drones: For autonomous flight and obstacle avoidance in GPS-denied environments.
+* Augmented Reality (AR): SLAM is used to overlay digital content in the real world by understanding the spatial layout.
+* Autonomous Vehicles: Essential for self-driving cars to navigate through urban environments.
 
 SLAM Map Builders:
 
