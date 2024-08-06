@@ -1,14 +1,8 @@
 ---
-title: "Markdown Tools"
 layout: default
+title: "Markdown Tools"
 date: 2024-08-06 
-categories: [cat1, cat2] 
 tags:[frontmatter, markdown] 
-author: Stuart Woodward 
-excerpt: "A deep dive into Markdown Tools." 
-image:/assets/images/jekyll-front-matter.png 
-show_sidebar: true 
-custom_variable: "Custom data for this post"
 ---
 
 # Markdown Tools
