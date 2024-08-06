@@ -9,7 +9,8 @@ excerpt: "A deep dive into Markdown Tools." 
 image:/assets/images/jekyll-front-matter.png 
 show_sidebar: true 
 custom_variable: "Custom data for this post"
- ---
+---
+
 # Markdown Tools
 
 ## mdcat
