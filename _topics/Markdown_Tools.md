@@ -1,6 +1,5 @@
 ---
 title: "Markdown Tools"
-layout: post 
 date: 2024-08-06 
 categories: [cat1, cat2] 
 tags:[frontmatter, markdown] 
