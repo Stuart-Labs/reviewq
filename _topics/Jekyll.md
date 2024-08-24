@@ -26,3 +26,11 @@ tags: [jekyll]
 {% endfor %}{% endraw %}
 ```
 
+
+## Using Anchor Tags
+
+```
+{% raw %}[Go to Section 1](#section1)
+
+## <a id="section1"></a>Section 1{% endraw %}
+```
