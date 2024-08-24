@@ -16,6 +16,7 @@ tags: [jekyll]
 ### How to embed Jekyll Tags in a page
 
 ```
+<pre>
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
@@ -24,5 +25,6 @@ tags: [jekyll]
     {% endfor %}
   </ul>
 {% endfor %}
+</pre>
 ```
 
