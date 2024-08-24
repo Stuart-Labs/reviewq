@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "Jekyll"
-date: August 24, 2024 at 11:58AM
 tags: [jekyll]
 ---
 
@@ -26,3 +25,4 @@ tags: [jekyll]
   </ul>
 {% endfor %}
 ```
+
