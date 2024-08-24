@@ -33,3 +33,5 @@ While ReviewQ is primarily for personal use, I acknowledge that others might fin
 The first goal is to get the review queue operational, allowing posts to flow through the system efficiently. The long-term vision is to have a robust, automated, and user-friendly system that not only serves my needs but also stands as a model for others interested in similar projects.
 
 Thank you for visiting ReviewQ. This platform is a testament to my dedication to streamlined content management and sharing, reflecting both my professional and personal endeavors.
+
+Copyright 2024

@@ -1,10 +1,12 @@
 title: ReviewQ
-description: Vell, He's just zis guy, you know?"- Brain-care specialist, Gag Halfrunt
+description: >
+  Vell, He's just zis guy, you know?"
+  Brain-care specialist, Gag Halfrunt
 author: "Stuart Wooodward"
 
 theme: minima
 
-base_url: reviewq/
+base_url: /
 repository: stuart-labs/reviewqhttp
 
 # Minima social links
