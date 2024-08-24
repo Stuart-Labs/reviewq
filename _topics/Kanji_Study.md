@@ -4,7 +4,7 @@ title: "Kanji Study Methods"
 categories: [kanji,japanese,language learning, JPLT]
 ---
 
-## Study the most used Kanji
+## Study the most used Kanji <a id="most_used_kanji">#</a>
 
 
 One of my goals is to study just enough. One strategy is focus on the words that people use. 
@@ -46,12 +46,12 @@ Given these points, the median person on the street in Japan would likely be at:
 Thus, it can be inferred that the average Japanese person has a kanji mastery level that corresponds to the N1 level, making them capable of reading most written texts encountered in everyday life.	
 	
 	
-## Analysis of the top 3000 Kanji used in 5000 Novels
+## Analysis of the top 3000 Kanji used in 5000 Novels <a id="top_3000_kanji">#</a>
 
 [This Google Sheet][three_thosand_kanji] has 3000 Kanji, in order of most used, with several examples words that use that Kanji. So, by going down from the start and learning the words that you don’t know, my assumption is that you are increasing the number of useful kanji. The reverse is also true, if you go up from the bottom, you are just encountering useless kanji that many people don't know.
 > 5100 Japanese novels were evaluated with a text analyzer. Here's a list of each of the 3200 kanji that appeared in the top 30,000 words, along with the top 6 words for each kanji.
 
-## Other resources
+## Other resources <a id="other_resources">#</a>
 
 [This reddit thread][five_thousand_novels] lists a lot of useful resources.
 
